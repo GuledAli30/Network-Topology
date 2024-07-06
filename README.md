@@ -1,2 +1,2 @@
 # Network-Topology
-![Network Topology Diagram](diagram.png)
+![Network Topology Diagram](Network_topology_drawio.png)
