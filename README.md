@@ -1,9 +1,6 @@
 # Network-Topology
 ![Network Topology Diagram](Network_topology_drawio.png)
 
-# Network Topology
-
-![Network Topology Diagram](network_topology.png)
 
 ## Benefits of this Network Topology
 
