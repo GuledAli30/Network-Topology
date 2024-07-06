@@ -1,27 +1,3 @@
-# Network-Topology
-![Network Topology Diagram](Network_topology_drawio.png)
-
-
-## Benefits of this Network Topology
-
-### Scalability
-- The design includes modular switches which can be easily expanded as the network grows.
-- New nodes can be added with minimal impact on the existing network, ensuring seamless scaling.
-
-### Redundancy
-- The use of multiple paths between critical nodes ensures that there is no single point of failure.
-- Redundant connections between the core switches and access switches provide failover capabilities.
-
-### Security
-- The diagram highlights segregated network zones, ensuring that sensitive data is protected.
-- Firewalls are placed between the public and private segments, preventing unauthorized access.
-- Intrusion detection systems are strategically located to monitor and respond to potential threats.
-
-
-Certainly! Here’s a professional README template for your small office network topology project, including emojis and bold writing to differentiate sections:
-
----
-
 # 🏢 Small Office Network Topology
 
 ## 📜 **Project Description**
@@ -32,7 +8,7 @@ This project outlines the design and implementation of a **basic network topolog
 
 - **Establish a reliable network infrastructure** for a small office.
 - **Ensure secure and efficient connectivity** for all office devices.
-- **Incorporate redundancy** to minimize downtime.
+- **Incorporate redundancy** to reduce downtime.
 - **Design a scalable network** that can grow with the office needs.
 
 ## 🖥️ **Network Components**
@@ -105,6 +81,4 @@ graph TD
 11. **Test and Validate**: Ensure everything works as expected.
 12. **Ongoing Maintenance**: Regularly monitor and maintain the network.
 
----
 
-Feel free to edit and customize this README to fit the specific details and needs of your project.
