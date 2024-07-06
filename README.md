@@ -1,2 +1,2 @@
 # Network-Topology
-![Network Topology Diagram](path/to/your/diagram.png)
+![Network Topology Diagram](diagram.png)
