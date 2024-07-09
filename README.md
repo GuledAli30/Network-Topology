@@ -66,7 +66,7 @@ graph TD
     D --> G[Servers]
 ```
 
-## ✨ **Contributing**
+##  **Topology Process**
 
 1. **Identify Requirements**: Determine the specific needs of the office.
 2. **Select Topology**: Choose a star topology for simplicity and scalability.
