@@ -1,26 +1,26 @@
-# 🏢 Small Office Network Topology
+#  Small Office Network Topology
 
-## 📜 **Project Description**
+##  **Project Description**
 
 This project outlines the design and implementation of a **basic network topology for a small office setup**. The network is designed to ensure **scalability, redundancy, and security** while maintaining simplicity and manageability.
 
-## 🚀 **Objectives**
+##  **Objectives**
 
 - **Establish a reliable network infrastructure** for a small office.
 - **Ensure secure and efficient connectivity** for all office devices.
 - **Incorporate redundancy** to reduce downtime.
 - **Design a scalable network** that can grow with the office needs.
 
-## 🖥️ **Network Components**
+##  **Network Components**
 
-1. **Internet Connection** 🌐
-2. **Firewall** 🔥
-3. **Router** 📶
-4. **Switch** 🔀
-5. **Access Points (APs)** 📡
-6. **Servers** 🖥️
-7. **Workstations** 💻
-8. **Printers & Peripherals** 🖨️
+1. **Internet Connection** 
+2. **Firewall** 
+3. **Router** 
+4. **Switch** 
+5. **Access Points (APs)** 
+6. **Servers** 
+7. **Workstations** 
+8. **Printers & Peripherals** 
 
 ## 📈 **Network Design**
 
