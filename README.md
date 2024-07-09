@@ -22,7 +22,7 @@ This project outlines the design and implementation of a **basic network topolog
 7. **Workstations** 
 8. **Printers & Peripherals** 
 
-## 📈 **Network Design**
+##  **Network Design**
 
 ### **1. Internet and Perimeter Security**
 - **ISP Connection**: Provides internet access.
