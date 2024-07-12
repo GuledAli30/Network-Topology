@@ -81,4 +81,5 @@ graph TD
 11. **Test and Validate**: Ensure everything works as expected.
 12. **Ongoing Maintenance**: Regularly monitor and maintain the network.
 
+<img width="1440" alt="Screenshot 2024-07-10 at 03 04 29" src="https://github.com/user-attachments/assets/002d82dd-1c56-43a6-9653-fce9e3682513">
 
