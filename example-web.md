@@ -27,3 +27,5 @@ This research project explores the step-by-step process that occurs when a user 
 - **Data Transmission**: Occurs after the HTTP request is made and the server processes the request.
 
 This project provides a detailed examination of each step to understand the underlying mechanisms and technologies involved in accessing a web page.
+
+
